@@ -1,2 +1,2 @@
-blablablaprint("What's up!")
+print("What's up!")
 print("Hello Git!")
